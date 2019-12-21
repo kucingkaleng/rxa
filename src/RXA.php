@@ -3,6 +3,6 @@ namespace KucingKalenk\RXA;
 
 class RXA {
   public function greet (String $sName) {
-    return 'Hi ' . $sName . '! How are you doing today?';
+    return 'Hi Hello ' . $sName . '! How are you doing today?';
   }
 }
