@@ -1,0 +1,19 @@
+{
+    "name": "kucingkalenk/rxa",
+    "description": "RxA Core - Collections of usable helper",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ade",
+            "email": "kucingkalenk@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "KucingKalenk\\RXA\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
